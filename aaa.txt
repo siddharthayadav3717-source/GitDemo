@@ -3,6 +3,3 @@ this is my first git file
 second commit 
 
 this is the third file i will change here and take the latest pull
-
-
-i will learn how to do git cherry pick or revert.
